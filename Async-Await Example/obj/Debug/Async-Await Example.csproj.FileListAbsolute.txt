@@ -1,0 +1,6 @@
+D:\Sistemas\Async-Await Example\Async-Await Example\bin\Debug\Async-Await Example.exe.config
+D:\Sistemas\Async-Await Example\Async-Await Example\bin\Debug\Async-Await Example.exe
+D:\Sistemas\Async-Await Example\Async-Await Example\bin\Debug\Async-Await Example.pdb
+D:\Sistemas\Async-Await Example\Async-Await Example\obj\Debug\Async-Await Example.csprojResolveAssemblyReference.cache
+D:\Sistemas\Async-Await Example\Async-Await Example\obj\Debug\Async-Await Example.exe
+D:\Sistemas\Async-Await Example\Async-Await Example\obj\Debug\Async-Await Example.pdb
